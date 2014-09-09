@@ -1,0 +1,20 @@
+{
+  "name": "gulp-browserify-angular-template-project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sgetz/gulp-browserify-angular-template-project",
+  "authors": [
+    "Shalom Getz <shalom.getz@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
